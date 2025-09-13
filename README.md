@@ -1,4 +1,4 @@
-# Java Programming – Suchitra V
+# Java Programming
 
 Welcome to my Java Programming repository! This collection showcases my journey through various Java programming exercises, assignments, and projects. Each folder represents a distinct topic or concept, demonstrating my understanding and application of Java.
 
